@@ -23,7 +23,7 @@ def erase():
   else:
     os.system('clear')
     
-os.system("mode 175,30 & title [Vanity Sniper - RisinPlayZ#1337]") 
+os.system("mode 175,30 & title [Vanity Sniper - ! ™DevilPlayZ_#0001]") 
 erase()
 bot = input("Bot [True/False]: ")
 erase()
